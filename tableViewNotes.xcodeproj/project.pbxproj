@@ -17,6 +17,7 @@
 		C86BD2262AE01E4500029FD7 /* tableViewNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C86BD2252AE01E4500029FD7 /* tableViewNotesTests.swift */; };
 		C86BD2302AE01E4500029FD7 /* tableViewNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C86BD22F2AE01E4500029FD7 /* tableViewNotesUITests.swift */; };
 		C86BD2322AE01E4500029FD7 /* tableViewNotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C86BD2312AE01E4500029FD7 /* tableViewNotesUITestsLaunchTests.swift */; };
+		C8B6D5FD2AE1745100EBF61C /* CrazyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B6D5FC2AE1745100EBF61C /* CrazyCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C86BD22B2AE01E4500029FD7 /* tableViewNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableViewNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C86BD22F2AE01E4500029FD7 /* tableViewNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewNotesUITests.swift; sourceTree = "<group>"; };
 		C86BD2312AE01E4500029FD7 /* tableViewNotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewNotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C8B6D5FC2AE1745100EBF61C /* CrazyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrazyCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				C86BD20D2AE01E4100029FD7 /* SceneDelegate.swift */,
 				C86BD20F2AE01E4100029FD7 /* ViewController.swift */,
 				C86BD2112AE01E4100029FD7 /* Main.storyboard */,
+				C8B6D5FC2AE1745100EBF61C /* CrazyCell.swift */,
 				C86BD2172AE01E4400029FD7 /* Assets.xcassets */,
 				C86BD2192AE01E4400029FD7 /* LaunchScreen.storyboard */,
 				C86BD21C2AE01E4400029FD7 /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8B6D5FD2AE1745100EBF61C /* CrazyCell.swift in Sources */,
 				C86BD2102AE01E4100029FD7 /* ViewController.swift in Sources */,
 				C86BD20C2AE01E4100029FD7 /* AppDelegate.swift in Sources */,
 				C86BD20E2AE01E4100029FD7 /* SceneDelegate.swift in Sources */,
